@@ -76,4 +76,4 @@ For agents, follow [AGENTS.md](AGENTS.md).
 
 Third-party dependencies and their licenses are disclosed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
-This fork is exercised by dsh-superagent.
+This fork is the dsh-superagent trial.
